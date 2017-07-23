@@ -1,0 +1,9 @@
+D:\lesson\csharp\lesson2\lesson2\MinimumNumber\bin\Debug\MinimumNumber.exe.config
+D:\lesson\csharp\lesson2\lesson2\MinimumNumber\bin\Debug\MinimumNumber.exe
+D:\lesson\csharp\lesson2\lesson2\MinimumNumber\bin\Debug\MinimumNumber.pdb
+D:\lesson\csharp\lesson2\lesson2\MinimumNumber\obj\Debug\MinimumNumber.csprojResolveAssemblyReference.cache
+D:\lesson\csharp\lesson2\lesson2\MinimumNumber\obj\Debug\MinimumNumber.exe
+D:\lesson\csharp\lesson2\lesson2\MinimumNumber\obj\Debug\MinimumNumber.pdb
+D:\lesson\csharp\lesson2\MinimumNumber\bin\Debug\MinimumNumber.exe.config
+D:\lesson\csharp\lesson2\MinimumNumber\obj\Debug\MinimumNumber.exe
+D:\lesson\csharp\lesson2\MinimumNumber\obj\Debug\MinimumNumber.pdb

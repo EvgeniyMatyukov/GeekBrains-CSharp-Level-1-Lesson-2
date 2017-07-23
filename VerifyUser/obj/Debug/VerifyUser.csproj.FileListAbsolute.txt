@@ -1,0 +1,12 @@
+D:\lesson\csharp\lesson2\VerifyUser\VerifyUser\bin\Debug\VerifyUser.exe.config
+D:\lesson\csharp\lesson2\VerifyUser\VerifyUser\bin\Debug\VerifyUser.exe
+D:\lesson\csharp\lesson2\VerifyUser\VerifyUser\bin\Debug\VerifyUser.pdb
+D:\lesson\csharp\lesson2\VerifyUser\VerifyUser\obj\Debug\VerifyUser.csprojResolveAssemblyReference.cache
+D:\lesson\csharp\lesson2\VerifyUser\VerifyUser\obj\Debug\VerifyUser.exe
+D:\lesson\csharp\lesson2\VerifyUser\VerifyUser\obj\Debug\VerifyUser.pdb
+D:\lesson\csharp\lesson2\VerifyUser\bin\Debug\VerifyUser.exe.config
+D:\lesson\csharp\lesson2\VerifyUser\obj\Debug\VerifyUser.exe
+D:\lesson\csharp\lesson2\VerifyUser\obj\Debug\VerifyUser.pdb
+D:\lesson\csharp\lesson2\VerifyUser\bin\Debug\VerifyUser.exe
+D:\lesson\csharp\lesson2\VerifyUser\bin\Debug\VerifyUser.pdb
+D:\lesson\csharp\lesson2\VerifyUser\obj\Debug\VerifyUser.csprojResolveAssemblyReference.cache

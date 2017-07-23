@@ -1,0 +1,9 @@
+D:\lesson\csharp\lesson2\AdderOfOdd\AdderOfOdd\bin\Debug\AdderOfOdd.exe.config
+D:\lesson\csharp\lesson2\AdderOfOdd\AdderOfOdd\obj\Debug\AdderOfOdd.csprojResolveAssemblyReference.cache
+D:\lesson\csharp\lesson2\AdderOfOdd\AdderOfOdd\bin\Debug\AdderOfOdd.exe
+D:\lesson\csharp\lesson2\AdderOfOdd\AdderOfOdd\bin\Debug\AdderOfOdd.pdb
+D:\lesson\csharp\lesson2\AdderOfOdd\AdderOfOdd\obj\Debug\AdderOfOdd.exe
+D:\lesson\csharp\lesson2\AdderOfOdd\AdderOfOdd\obj\Debug\AdderOfOdd.pdb
+D:\lesson\csharp\lesson2\AdderOfOdd\bin\Debug\AdderOfOdd.exe.config
+D:\lesson\csharp\lesson2\AdderOfOdd\obj\Debug\AdderOfOdd.exe
+D:\lesson\csharp\lesson2\AdderOfOdd\obj\Debug\AdderOfOdd.pdb

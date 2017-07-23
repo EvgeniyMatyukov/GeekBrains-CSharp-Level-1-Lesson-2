@@ -1,0 +1,9 @@
+D:\lesson\csharp\lesson2\BodyWeightIndex\BodyWeightIndex\bin\Debug\BodyWeightIndex.exe.config
+D:\lesson\csharp\lesson2\BodyWeightIndex\BodyWeightIndex\bin\Debug\BodyWeightIndex.exe
+D:\lesson\csharp\lesson2\BodyWeightIndex\BodyWeightIndex\bin\Debug\BodyWeightIndex.pdb
+D:\lesson\csharp\lesson2\BodyWeightIndex\BodyWeightIndex\obj\Debug\BodyWeightIndex.csprojResolveAssemblyReference.cache
+D:\lesson\csharp\lesson2\BodyWeightIndex\BodyWeightIndex\obj\Debug\BodyWeightIndex.exe
+D:\lesson\csharp\lesson2\BodyWeightIndex\BodyWeightIndex\obj\Debug\BodyWeightIndex.pdb
+D:\lesson\csharp\lesson2\BodyWeightIndex\bin\Debug\BodyWeightIndex.exe.config
+D:\lesson\csharp\lesson2\BodyWeightIndex\obj\Debug\BodyWeightIndex.exe
+D:\lesson\csharp\lesson2\BodyWeightIndex\obj\Debug\BodyWeightIndex.pdb

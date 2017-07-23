@@ -1,0 +1,9 @@
+D:\lesson\csharp\lesson2\NumberOfDigits\NumberOfDigits\bin\Debug\NumberOfDigits.exe.config
+D:\lesson\csharp\lesson2\NumberOfDigits\NumberOfDigits\bin\Debug\NumberOfDigits.exe
+D:\lesson\csharp\lesson2\NumberOfDigits\NumberOfDigits\bin\Debug\NumberOfDigits.pdb
+D:\lesson\csharp\lesson2\NumberOfDigits\NumberOfDigits\obj\Debug\NumberOfDigits.csprojResolveAssemblyReference.cache
+D:\lesson\csharp\lesson2\NumberOfDigits\NumberOfDigits\obj\Debug\NumberOfDigits.exe
+D:\lesson\csharp\lesson2\NumberOfDigits\NumberOfDigits\obj\Debug\NumberOfDigits.pdb
+D:\lesson\csharp\lesson2\NumberOfDigits\bin\Debug\NumberOfDigits.exe.config
+D:\lesson\csharp\lesson2\NumberOfDigits\obj\Debug\NumberOfDigits.exe
+D:\lesson\csharp\lesson2\NumberOfDigits\obj\Debug\NumberOfDigits.pdb

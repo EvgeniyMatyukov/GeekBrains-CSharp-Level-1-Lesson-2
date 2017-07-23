@@ -1,0 +1,8 @@
+D:\lesson\csharp\lesson2\CountingGoodNumbers\CountingGoodNumbers\bin\Debug\CountingGoodNumbers.exe.config
+D:\lesson\csharp\lesson2\CountingGoodNumbers\CountingGoodNumbers\bin\Debug\CountingGoodNumbers.exe
+D:\lesson\csharp\lesson2\CountingGoodNumbers\CountingGoodNumbers\bin\Debug\CountingGoodNumbers.pdb
+D:\lesson\csharp\lesson2\CountingGoodNumbers\CountingGoodNumbers\obj\Debug\CountingGoodNumbers.exe
+D:\lesson\csharp\lesson2\CountingGoodNumbers\CountingGoodNumbers\obj\Debug\CountingGoodNumbers.pdb
+D:\lesson\csharp\lesson2\CountingGoodNumbers\bin\Debug\CountingGoodNumbers.exe.config
+D:\lesson\csharp\lesson2\CountingGoodNumbers\obj\Debug\CountingGoodNumbers.exe
+D:\lesson\csharp\lesson2\CountingGoodNumbers\obj\Debug\CountingGoodNumbers.pdb
